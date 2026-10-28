@@ -74,7 +74,7 @@ A small drone built with an Arduino Nano, 4 brushed motors, an MPU6050 and an NR
 ## Setup
 
 1. Install the Arduino libraries `RF24`, `Adafruit GFX` and `Adafruit SSD1306`.
-2. Upload `firmware/drone/` to the drone and `firmware/controller/` to the controller.
+2. Upload `code/drone/` to the drone and `code/controller/` to the controller.
 
 Remove the propellers for first tests.
 

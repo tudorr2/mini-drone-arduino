@@ -69,13 +69,4 @@ A small drone built with an Arduino Nano, 4 brushed motors, an MPU6050 and an NR
 | 5V              | Boost output             |
 | 3V3             | NRF VCC                  |
 
-## The AIN2/BIN2 pins are held LOW so each motor only runs in one direction. DRV VM goes to the battery.
-
-## Setup
-
-1. Install the Arduino libraries `RF24`, `Adafruit GFX` and `Adafruit SSD1306`.
-2. Upload `code/drone/` to the drone and `code/controller/` to the controller.
-
-Remove the propellers for first tests.
-
 ---
